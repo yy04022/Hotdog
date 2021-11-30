@@ -16,6 +16,7 @@
 		3CA216B42755B09B0085E254 /* HotdogTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA216B32755B09B0085E254 /* HotdogTests.swift */; };
 		3CA216BE2755B09B0085E254 /* HotdogUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA216BD2755B09B0085E254 /* HotdogUITests.swift */; };
 		3CA216C02755B09B0085E254 /* HotdogUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA216BF2755B09B0085E254 /* HotdogUITestsLaunchTests.swift */; };
+		3CA216CD2755B8400085E254 /* Inceptionv3 .mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 3CA216CC2755B83F0085E254 /* Inceptionv3 .mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3CA216B92755B09B0085E254 /* HotdogUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HotdogUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CA216BD2755B09B0085E254 /* HotdogUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HotdogUITests.swift; sourceTree = "<group>"; };
 		3CA216BF2755B09B0085E254 /* HotdogUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HotdogUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3CA216CC2755B83F0085E254 /* Inceptionv3 .mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "Inceptionv3 .mlmodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3CA2169E2755B0950085E254 /* SceneDelegate.swift */,
 				3CA216A02755B0950085E254 /* ViewController.swift */,
 				3CA216A22755B0950085E254 /* Main.storyboard */,
+				3CA216CC2755B83F0085E254 /* Inceptionv3 .mlmodel */,
 				3CA216A52755B09A0085E254 /* Assets.xcassets */,
 				3CA216A72755B09A0085E254 /* LaunchScreen.storyboard */,
 				3CA216AA2755B09A0085E254 /* Info.plist */,
@@ -261,6 +264,7 @@
 				3CA216A12755B0950085E254 /* ViewController.swift in Sources */,
 				3CA2169D2755B0950085E254 /* AppDelegate.swift in Sources */,
 				3CA2169F2755B0950085E254 /* SceneDelegate.swift in Sources */,
+				3CA216CD2755B8400085E254 /* Inceptionv3 .mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
